@@ -28,6 +28,9 @@ public:
         cout << "SKS :"; //meminta pengguna memasukkan jumlah sks
         cin >> sks;
     }
+
+    void output() { // fungsi untuk menampilkan detail matakuliah
+    }
 };
 
 int main()
