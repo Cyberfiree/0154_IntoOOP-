@@ -35,4 +35,6 @@ int main() {
 	bangunDatar pp; // deklarasi objek pp dari class bangunDatar
 	pp.input(); //Memanggil method input untuk mengisi nilai panjang dan lebar
 	pp.display(); //Memanggil method display untuk menampilkan hasil
+
+	return 0;
 }
