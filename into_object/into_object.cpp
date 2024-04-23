@@ -21,6 +21,8 @@ private:
     int sks;
 public:
     void input() { // fungsi untuk menginput detail matakuliah
+        cout << "Kode MK :"; //meminta pengguna memasukkan kode matakuliah
+        cin >> kodeMk;
     }
 };
 
