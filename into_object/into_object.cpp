@@ -23,6 +23,8 @@ public:
     void input() { // fungsi untuk menginput detail matakuliah
         cout << "Kode MK :"; //meminta pengguna memasukkan kode matakuliah
         cin >> kodeMk;
+        cout << "Nama MK :"; //meminta pengguna memasukkan nama matakuliah
+        cin >> namaMk;
     }
 };
 
