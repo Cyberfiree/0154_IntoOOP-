@@ -47,6 +47,7 @@ int main() //membuat fungsi utama
     mhs.output(); //tampilkan informasi mahasiswa
 
     mk.input(); //input detail matakuliah
+    mk.output(); // tampilkan detail matakuliah
 
     return 0;
 }
