@@ -22,6 +22,9 @@ public:
 	float hitungluas() {
 		return panjang * lebar; //Menghitung luas persegi panjang
 	}
+
+	void display() {
+	}
 };
 
 int main() {
