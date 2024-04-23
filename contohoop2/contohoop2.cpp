@@ -10,6 +10,10 @@ public:
 	float luas;
 
 	void input() { // methode input persegi panjang
+
+		// Meminta pengguna untuk memasukkan panjang
+		cout << "Masukan Panjangnya = ";
+		cin >> panjang;
 	}
 };
 
