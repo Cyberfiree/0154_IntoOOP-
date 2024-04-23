@@ -14,6 +14,9 @@ public:
 		// Meminta pengguna untuk memasukkan panjang
 		cout << "Masukan Panjangnya = ";
 		cin >> panjang;
+		//Meminta pengguna untuk memasukkan lebar
+		cout << "Masukan Lebarnya = ";
+		cin >> lebar;
 	}
 };
 
