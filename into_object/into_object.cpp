@@ -19,6 +19,9 @@ private:
     string kodeMk;
     string namaMk;
     int sks;
+public:
+    void input() { // fungsi untuk menginput detail matakuliah
+    }
 };
 
 int main()
