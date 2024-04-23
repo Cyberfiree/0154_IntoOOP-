@@ -9,6 +9,8 @@ public: // akses modifier
 
     void output() { // fungsi untuk menampilkan informasi mahasiswa
         cout << "Nama : " << nama << endl; // meminta pengguna memasukkan kode matakuliah
+        cout << "Umur : " << umur << endl;
+        cout << "Jurusan : " << jurusan << endl;
     }
 };
 int main()
