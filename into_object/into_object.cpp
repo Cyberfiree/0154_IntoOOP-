@@ -40,4 +40,6 @@ int main() //membuat fungsi utama
 {
     Mahasiswa mhs;
     Matakuliah mk;
+
+    mhs.nama = "Budi"; //set nama mahasiswa
 }
