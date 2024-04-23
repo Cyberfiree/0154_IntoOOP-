@@ -18,6 +18,10 @@ public:
 		cout << "Masukan Lebarnya = ";
 		cin >> lebar;
 	}
+
+	float hitungluas() {
+		return panjang * lebar; //Menghitung luas persegi panjang
+	}
 };
 
 int main() {
