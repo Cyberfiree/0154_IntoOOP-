@@ -25,6 +25,8 @@ public:
         cin >> kodeMk;
         cout << "Nama MK :"; //meminta pengguna memasukkan nama matakuliah
         cin >> namaMk;
+        cout << "SKS :"; //meminta pengguna memasukkan jumlah sks
+        cin >> sks;
     }
 };
 
