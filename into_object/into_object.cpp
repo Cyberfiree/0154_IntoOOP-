@@ -8,6 +8,7 @@ public: // akses modifier
     string jurusan; // jurusan mahasiswa
 
     void output() { // fungsi untuk menampilkan informasi mahasiswa
+        cout << "Nama : " << nama << endl; // meminta pengguna memasukkan kode matakuliah
     }
 };
 int main()
