@@ -45,4 +45,8 @@ int main() //membuat fungsi utama
     mhs.umur = 20; //set umur mahasiswa
     mhs.jurusan = "Teknik Informatika"; //set jurusan mahasiswa
     mhs.output(); //tampilkan informasi mahasiswa
+
+    mk.input(); //input detail matakuliah
+
+    return 0;
 }
