@@ -8,6 +8,9 @@ private:
 	float panjang, lebar; // Deklarasi variabel panjang dan lebar sebagai private
 public:
 	float luas;
+
+	void input() { // methode input persegi panjang
+	}
 };
 
 int main() {
