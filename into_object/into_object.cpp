@@ -42,4 +42,5 @@ int main() //membuat fungsi utama
     Matakuliah mk;
 
     mhs.nama = "Budi"; //set nama mahasiswa
+    mhs.umur = 20; //set umur mahasiswa
 }
