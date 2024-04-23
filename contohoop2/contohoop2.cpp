@@ -24,6 +24,10 @@ public:
 	}
 
 	void display() {
+		// menampilkan panjang, lebar, dan luas persegi panjang
+		cout << "Panjangnya = " << panjang << endl;
+		cout << "Lebarnya = " << lebar << endl;
+		cout << "Luasnya = " << hitungluas() << endl;
 	}
 };
 
