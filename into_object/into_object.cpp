@@ -36,6 +36,8 @@ public:
     }
 };
 
-int main()
+int main() //membuat fungsi utama
 {
+    Mahasiswa mhs;
+    Matakuliah mk;
 }
