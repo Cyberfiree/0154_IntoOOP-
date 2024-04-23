@@ -44,4 +44,5 @@ int main() //membuat fungsi utama
     mhs.nama = "Budi"; //set nama mahasiswa
     mhs.umur = 20; //set umur mahasiswa
     mhs.jurusan = "Teknik Informatika"; //set jurusan mahasiswa
+    mhs.output(); //tampilkan informasi mahasiswa
 }
